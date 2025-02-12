@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\obj\Debug\net8.0\Enunciado2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\obj\Debug\net8.0\Enunciado2.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\obj\Debug\net8.0\Enunciado2.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\obj\Debug\net8.0\Enunciado2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\bin\Debug\net8.0\Enunciado2.exe
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\bin\Debug\net8.0\Enunciado2.deps.json
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\bin\Debug\net8.0\Enunciado2.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\bin\Debug\net8.0\Enunciado2.dll
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\bin\Debug\net8.0\Enunciado2.pdb
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\obj\Debug\net8.0\Enunciado2.dll
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\obj\Debug\net8.0\refint\Enunciado2.dll
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\obj\Debug\net8.0\Enunciado2.pdb
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\obj\Debug\net8.0\Enunciado2.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Laboratorio progra 2\Enunciado2\obj\Debug\net8.0\ref\Enunciado2.dll

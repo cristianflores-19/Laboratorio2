@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\bin\Debug\net8.0\Parte 2.exe
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\bin\Debug\net8.0\Parte 2.deps.json
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\bin\Debug\net8.0\Parte 2.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\bin\Debug\net8.0\Parte 2.dll
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\bin\Debug\net8.0\Parte 2.pdb
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\obj\Debug\net8.0\Parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\obj\Debug\net8.0\Parte 2.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\obj\Debug\net8.0\Parte 2.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\obj\Debug\net8.0\Parte 2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\obj\Debug\net8.0\Parte 2.dll
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\obj\Debug\net8.0\refint\Parte 2.dll
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\obj\Debug\net8.0\Parte 2.pdb
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\obj\Debug\net8.0\Parte 2.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documentos\Ing en sistemas 1 semsetre\Tercer semestre\Programacion 1\programas\Parte 2\obj\Debug\net8.0\ref\Parte 2.dll
